@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Activities"
 permalink: /teaching/
 author_profile: true
 ---
